@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:'reactapp105', // Set the base path for GitHub Pages 
+  base:'/reactapp105-gitactions/', // Set the base path for GitHub Pages 
   
 })
